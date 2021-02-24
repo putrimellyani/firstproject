@@ -1,0 +1,7 @@
+import 'dart:io';
+
+main() {
+ stdout.write("WHO ARE YOU ?");
+ var nama = stdin.readlineSync();
+ print("HAI $nama!');
+}
