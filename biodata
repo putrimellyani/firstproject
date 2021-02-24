@@ -1,0 +1,13 @@
+void main(){
+ String NAMA = "PUTRI MELLYANI';
+ int UMUR = 20 TAHUN;
+ double TINGGI = 180.0;
+ bool isSTATUS = false;
+ 
+ var ALAMAT = "SUMUT,INDONESIA";
+ 
+ print("NAMA SAYA : $NAMA.");
+ print("UMUR : $UMUR");
+ print("STATUS : $isSTATUS");
+ print("ALAMAT : $ALAMAT");
+}
